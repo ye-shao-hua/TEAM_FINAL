@@ -1,0 +1,14 @@
+setenv __BEM2D_NO_CALCULATION__ false 
+setenv __BEM2DDEBUG_PRE__ true 
+setenv __BEM2DDEBUG__ false
+setenv __BEM2D_LINEAR_METHOD__ false
+setenv __BEM2D_THICKEST_MESH__ false
+setenv __BEM2D_ADAPTIVE_MESH__ true 
+setenv __BEM2D_USE_NEW_ADAP__ true
+setenv __BEM2D_USE_NEW_ELE_ORDER__ true
+setenv __BEM2D_MAX_ADAPTIVE_ITER__ 20
+setenv __BEM2D_CAPS_CONVERGENCE_RES__ 0.01
+setenv __BEM2D_MIN_LENGTH_MULTIPLE__ 100
+setenv __BEM2D_MAX_ELEMENTS__ 10000
+setenv __BEM2D_AUTOREFINEMENT_MESH__ false
+setenv __BEM2D_SOLVER_NOLOG__ false
